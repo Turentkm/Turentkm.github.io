@@ -52,4 +52,11 @@
     flex-direction: row;
     justify-content: space-between;
 }
+.content .google-play input {
+    transition: all 0.5s;
+}
+
+.content .google-play input:hover {
+    transform: scale(1.05);
+}
 
